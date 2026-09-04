@@ -39,10 +39,10 @@ Loss Function: CrossEntropyLoss
 Optimizer: Adam
 Learning Rate: 0.001
 Batch Size: 64
-Epochs: 10
+Epochs: 15
 
 ## Results
-Final Test Accuracy: .
+Final Test Accuracy: 90.35%
 
 The model was able to successfully learn to identify most Fashion-MNIST categories. Performance differed accross classes, especially for clothing categories that were visually similar to each other.
 
